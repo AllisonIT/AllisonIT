@@ -16,7 +16,8 @@
 ## 📁 개인 프로젝트
 | 프로젝트 | 내용 |
 |:---|:---|
-| **EEG Classification** | STFT 및 CNN 기반 EEG 신호 분류 |
+| **[Posture Mate](https://github.com/AllisonIT/posture-correction-web)** | MediaPipe 기반 실시간 자세 인식 및 자세 교정 웹 서비스 |
+| **EEG Classification** | STFT 및 CNN 기반 EEG 신호 분류 연구 |
 
 ---
 

@@ -17,7 +17,7 @@
 | 프로젝트 | 내용 |
 |:---|:---|
 | **[Posture Mate](https://github.com/AllisonIT/posture-correction-web)** | MediaPipe 기반 실시간 자세 인식 및 자세 교정 웹 서비스 |
-| **PlanMate AI** | 일정에 필요한 준비와 행동을 추천하는 AI 생활 비서 |
+| **[PlanMate AI](https://github.com/AllisonIT/PlanMate-AI)** | FastAPI·SQLite 기반 일정 및 작업 관리와 마감일·우선순위를 고려한 규칙 기반 자동 스케줄링 웹 서비스 |
 | **EEG Classification** | STFT 및 CNN 기반 EEG 신호 분류 연구 |
 
 

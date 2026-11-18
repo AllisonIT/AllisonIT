@@ -9,7 +9,7 @@
 | 프로젝트 | 내용 |
 |:---|:---|
 | **[Skin Disease AI Chatbot](https://github.com/AllisonIT/Skin-Disease-AI-Chatbot)** | Rasa 기반 자연어 처리 기술을 활용한 피부질환 정보 제공 및 사용자 상담 지원 웹 서비스 |
-| **Alzheimer's MRI** | 뇌 MRI 기반 알츠하이머 분류 모델 |
+| **[Memora]** | 뇌 MRI 기반 알츠하이머 분류 모델 |
 | **Masto-Net** | DINOv2 기반 멀티모달 유방암 보조 진단 |
 | **Stock News Matching** | 뉴스·SNS 기반 종목 매칭 및 AI 요약 대시보드 |
 

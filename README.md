@@ -9,17 +9,6 @@ REST API 개발, 데이터베이스 연동, JWT 기반 사용자 인증, 외부 
 
 ---
 
-## 💡 Backend Development Experience
-
-- **REST API** — Spring Boot 기반 종목 검색, 관심 종목, 게시판 및 댓글 API 연동
-- **Authentication** — JWT 기반 사용자 인증 및 권한 처리
-- **Database** — MariaDB·JPA 기반 데이터 조회 및 서비스 기능 구현
-- **External API** — 한국투자증권(KIS) API 기반 주식 시세 데이터 연동
-- **AI Integration** — AI 뉴스 요약 및 감성 분석 결과를 웹 서비스에 연동
-- **Collaboration** — Git 브랜치 및 Pull Request를 활용한 팀 협업
-
----
-
 ## 📁 Team Projects
 | 프로젝트 | 내용 |
 |:---|:---|
@@ -81,6 +70,17 @@ REST API 개발, 데이터베이스 연동, JWT 기반 사용자 인증, 외부 
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 💡 Backend Development Experience
+
+- **REST API** — Spring Boot 기반 종목 검색, 관심 종목, 게시판 및 댓글 API 연동
+- **Authentication** — JWT 기반 사용자 인증 및 권한 처리
+- **Database** — MariaDB·JPA 기반 데이터 조회 및 서비스 기능 구현
+- **External API** — 한국투자증권(KIS) API 기반 주식 시세 데이터 연동
+- **AI Integration** — AI 뉴스 요약 및 감성 분석 결과를 웹 서비스에 연동
+- **Collaboration** — Git 브랜치 및 Pull Request를 활용한 팀 협업
 
 ---
 

@@ -20,24 +20,20 @@ REST API 개발, 데이터베이스 연동, JWT 기반 사용자 인증, 외부 
 
 ---
 
-## 📂 Team Projects
-
+## 📁 Team Projects
 | 프로젝트 | 내용 |
 |:---|:---|
-| **Stock News Matching** | Java·Spring Boot 기반 뉴스·SNS 종목 매칭, AI 요약 및 주식 데이터 분석 대시보드 |
-| **[Skin Disease AI Chatbot](https://github.com/AllisonIT/Skin-Disease-AI-Chatbot)** | Rasa 기반 자연어 처리 기술을 활용한 피부질환 정보 제공 및 상담 지원 웹 서비스 |
-| **[Memora](https://github.com/AllisonIT/Memora)** | 뇌 MRI 기반 알츠하이머 분류 및 진단 보조 AI 프로젝트 |
-| **[Masto-Net](https://github.com/AllisonIT/Masto-Net)** | DINOv2 및 Dual-ROI Fusion 기반 멀티모달 유방암 진단 보조 시스템 |
-
----
+| **[Skin Disease AI Chatbot](https://github.com/AllisonIT/Skin-Disease-AI-Chatbot)** | Rasa 기반 자연어 처리 기술을 활용한 피부질환 정보 제공 및 사용자 상담 지원 웹 서비스 |
+| **[Memora](https://github.com/AllisonIT/Memora)** | 뇌 MRI 기반 알츠하이머 분류 모델 |
+| **[Masto-Net](https://github.com/AllisonIT/Masto-Net)** | DINOv2 기반 멀티모달 유방암 보조 진단 |
+| **Stock News Matching** | 뉴스·SNS 기반 종목 매칭 및 AI 요약 대시보드 |
 
 ## 📁 Personal Projects & Research
-
 | 프로젝트 | 내용 |
 |:---|:---|
-| **[PlanMate AI](https://github.com/AllisonIT/PlanMate-AI)** | FastAPI·SQLite 기반 일정 및 작업 관리와 마감일·우선순위를 고려한 규칙 기반 자동 스케줄링 웹 서비스 |
 | **[Posture Mate](https://github.com/AllisonIT/posture-correction-web)** | MediaPipe 기반 실시간 자세 인식 및 자세 교정 웹 서비스 |
-| **[EEG Time-Frequency Analysis](https://github.com/AllisonIT/EEG-Time-Frequency-Analysis)** | STFT 기반 EEG 시간·주파수 변환 및 CNN 분류 구조 제안 연구 (졸업논문·제1저자) |
+| **[PlanMate AI](https://github.com/AllisonIT/PlanMate-AI)** | FastAPI·SQLite 기반 일정 및 작업 관리와 마감일·우선순위를 고려한 규칙 기반 자동 스케줄링 웹 서비스 |
+| **[EEG Time-Frequency Analysis](https://github.com/AllisonIT/EEG-Time-Frequency-Analysis)** | STFT 기반 EEG 시간-주파수 변환 및 CNN 분류 구조 제안 연구 (졸업논문·제1저자) |
 
 ---
 
